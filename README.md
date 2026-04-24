@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.jpg" alt="Zylos ERP & Pymes Banner" width="100%">
+<img src="portada.png" alt="Zylos ERP & Pymes Banner" width="100%">
 
 # ¡Hola! Soy Nazareno Rodriguez 👋
 **Estudiante de TUP @ UTN | Full Stack Developer | Especialista en Sistemas ERP**
