@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="portada.png" alt="Zylos ERP & Pymes Banner" width="100%">
-
 # ¡Hola! Soy Nazareno Rodriguez 👋
 **Estudiante de TUP @ UTN | Full Stack Developer | Especialista en Sistemas ERP**
+
+<img src="portada.png" alt="Zylos ERP & Pymes Banner" width="100%">
 
 <p align="center">
   <a href="mailto:nazarenorodriguez013@gmail.com"><img src="https://img.shields.io/badge/Gmail-nazarenorodriguez013%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
