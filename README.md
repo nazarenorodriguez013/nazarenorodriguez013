@@ -1,4 +1,3 @@
-![Uploading benner.jpg.png…]()
 <div align="center">
 
 <img src="banner.jpg" alt="Zylos ERP & Pymes Banner" width="100%">
