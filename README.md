@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/portada_nazareno.jpg" alt="Nazareno Rodriguez Banner" width="100%">
+<img src="banner.jpg" alt="Zylos ERP & Pymes Banner" width="100%">
 
 # ¡Hola! Soy Nazareno Rodriguez 👋
 **Estudiante de TUP @ UTN | Full Stack Developer | Especialista en Sistemas ERP**
@@ -31,13 +31,13 @@
     <td align="center" width="250"><strong>Backend</strong></td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
     </td>
-    <td>
+    <td align="center">
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
@@ -49,12 +49,12 @@
     <td align="center"><strong>Herramientas</strong></td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
     </td>
-    <td>
+    <td align="center">
       <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
@@ -67,6 +67,14 @@
 ### 📊 Estadísticas de GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nazarenorodriguez031&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazarenorodriguez031&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nazarenorodriguez031&color=3fb950&style=flat&label=visitas+al+perfil" />
+</div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazarenorodriguez031&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
 </div>
 
