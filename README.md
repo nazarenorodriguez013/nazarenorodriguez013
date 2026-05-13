@@ -1,7 +1,7 @@
 <div align="center">
 
 # ¡Hola! Soy Nazareno Rodriguez 👋
-**Estudiante de Tecnicatura Universitaria en Programación UTN | Full Stack Developer | Especialista en Sistemas ERP**
+**Estudiante de Tecnicatura Universitaria en Programación UTN | Full Stack Developer | Conocimientos en Sistemas ERP**
 
 
 <img src="portada.png" alt="Zylos ERP & Pymes Banner" width="100%">
@@ -20,7 +20,7 @@
 - 🎓 Actualmente cursando la **Tecnicatura Universitaria en Programación** en la UTN.
 - 🏢 Desarrollador y creador de soluciones de gestión: **Zylos ERP** y **Zylos Pymes**.
 - 🚀 Enfocado en crear software escalable, eficiente y con interfaces modernas.
-- 📍 Basado en Concordia, Entre Ríos, Argentina.
+- 📍 Actualmente en Concordia, Entre Ríos, Argentina.
 
 ---
 
