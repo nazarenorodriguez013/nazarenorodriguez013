@@ -4,7 +4,7 @@
 **Estudiante de Tecnicatura Universitaria en Programación UTN | Full Stack Developer | Conocimientos en Sistemas ERP**
 
 
-<img src="portada.png" alt="Zylos ERP & Pymes Banner" width="100%">
+<img src="portada.png" alt="Glamdo, Zylos ERP y Quiosquito" width="100%">
 
 <p align="center">
   <a href="mailto:nazarenorodriguez013@gmail.com"><img src="https://img.shields.io/badge/Gmail-nazarenorodriguez013%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -21,6 +21,35 @@
 - 🏢 Desarrollador y creador de soluciones de gestión: **Zylos ERP** y **Zylos Pymes**.
 - 🚀 Enfocado en crear software escalable, eficiente y con interfaces modernas.
 - 📍 Actualmente en Concordia, Entre Ríos, Argentina.
+
+---
+
+### 🚀 Proyectos personales
+
+<table align="center">
+  <tr>
+    <td align="center" width="330" valign="top">
+      <strong><a href="https://www.glamdo.com.ar">Glamdo</a></strong><br>
+      <sub><a href="https://www.glamdo.com.ar">www.glamdo.com.ar</a></sub>
+      <p align="left">
+        SaaS de gestión para peluquerías y barberías: turnos con reserva pública y lista de espera, fichas de clientes con puntos de fidelidad y tarjetas de regalo, peluqueros y comisiones, punto de venta con caja e inventario, facturación, campañas de marketing y un bot de WhatsApp para reservar turnos automáticamente. Multi-tenant con suscripción, integraciones con Google Calendar y Mercado Pago, y app para Android.
+      </p>
+    </td>
+    <td align="center" width="330" valign="top">
+      <strong><a href="https://www.quiosquito.com.ar">Quiosquito</a></strong><br>
+      <sub><a href="https://www.quiosquito.com.ar">www.quiosquito.com.ar</a></sub>
+      <p align="left">
+        Plataforma SaaS de gestión para kioscos y comercios de cercanía, con app de escritorio para Windows y macOS.
+      </p>
+    </td>
+    <td align="center" width="330" valign="top">
+      <strong>Zylos ERP</strong>
+      <p align="left">
+        Sistema de gestión multiempresa para distribuidoras y pymes: ventas, caja, clientes, proveedores y stock, facturación electrónica integrada con AFIP, app móvil para vendedores y un asistente con IA para consultar el negocio en lenguaje natural.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
