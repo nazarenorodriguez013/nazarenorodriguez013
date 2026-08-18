@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola! Soy Nazareno Rodriguez 👋
+# ¡Hola! Soy Nazareno Rodríguez 👋
 **Estudiante de Tecnicatura Universitaria en Programación UTN | Full Stack Developer | Conocimientos en Sistemas ERP**
 
 
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:nazarenorodriguez013@gmail.com"><img src="https://img.shields.io/badge/Gmail-nazarenorodriguez013%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://github.com/nazarenorodriguez031"><img src="https://img.shields.io/badge/GitHub-nazarenorodriguez031-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/nazarenorodriguez013"><img src="https://img.shields.io/badge/GitHub-nazarenorodriguez013-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://wa.me/543442535341"><img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
@@ -67,20 +67,12 @@
 
 ### 📊 Estadísticas de GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazarenorodriguez031&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazarenorodriguez031&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nazarenorodriguez013&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazarenorodriguez013&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nazarenorodriguez031&color=3fb950&style=flat&label=visitas+al+perfil" />
-</div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazarenorodriguez031&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nazarenorodriguez031&color=3fb950&style=flat&label=visitas+al+perfil" />
+  <img src="https://komarev.com/ghpvc/?username=nazarenorodriguez013&color=3fb950&style=flat&label=visitas+al+perfil" alt="Visitas al perfil" />
 </div>
