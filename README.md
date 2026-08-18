@@ -39,7 +39,7 @@
       <strong><a href="https://www.quiosquito.com.ar">Quiosquito</a></strong><br>
       <sub><a href="https://www.quiosquito.com.ar">www.quiosquito.com.ar</a></sub>
       <p align="left">
-        Plataforma SaaS de gestión para kioscos y comercios de cercanía, con app de escritorio para Windows y macOS.
+        Sistema de punto de venta y gestión para kioscos y comercios minoristas: venta rápida con escáner de código de barras, facturación (Factura B / Remito) integrada con AFIP, control de stock con alertas y movimientos, proveedores y compras, dashboard con reportes y ranking de productos, roles dueño/empleado y panel Super Admin para administrar varios kioscos en cadena con transferencias de stock entre sucursales. App de escritorio (Windows/macOS) y web, con Mercado Pago integrado.
       </p>
     </td>
     <td align="center" width="330" valign="top">
