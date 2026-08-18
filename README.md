@@ -18,7 +18,7 @@
 
 ### 👨‍💻 Sobre mí
 - 🎓 Actualmente cursando la **Tecnicatura Universitaria en Programación** en la UTN.
-- 🏢 Desarrollador y creador de soluciones de gestión: **Zylos ERP** y **Zylos Pymes**.
+- 🏢 Desarrollador y creador de soluciones de gestión: **Zylos ERP**, **Quiosquito** y **Glamdo**.
 - 🚀 Enfocado en crear software escalable, eficiente y con interfaces modernas.
 - 📍 Actualmente en Concordia, Entre Ríos, Argentina.
 
@@ -32,14 +32,14 @@
       <strong><a href="https://www.glamdo.com.ar">Glamdo</a></strong><br>
       <sub><a href="https://www.glamdo.com.ar">www.glamdo.com.ar</a></sub>
       <p align="left">
-        SaaS de gestión para peluquerías y barberías: turnos con reserva pública y lista de espera, fichas de clientes con puntos de fidelidad y tarjetas de regalo, peluqueros y comisiones, punto de venta con caja e inventario, facturación, campañas de marketing y un bot de WhatsApp para reservar turnos automáticamente. Multi-tenant con suscripción, integraciones con Google Calendar y Mercado Pago, y app para Android.
+        SaaS de gestión para peluquerías y barberías: turnos con reserva pública, fichas de clientes con puntos de fidelidad y tarjetas de regalo, peluqueros y comisiones, punto de venta con caja e inventario, facturación, campañas de marketing y un bot de WhatsApp para reservar turnos automáticamente. Multi-tenant con suscripción, integraciones con Google Calendar y Mercado Pago.
       </p>
     </td>
     <td align="center" width="330" valign="top">
       <strong><a href="https://www.quiosquito.com.ar">Quiosquito</a></strong><br>
       <sub><a href="https://www.quiosquito.com.ar">www.quiosquito.com.ar</a></sub>
       <p align="left">
-        Sistema de punto de venta y gestión para kioscos y comercios minoristas: venta rápida con escáner de código de barras, facturación (Factura B / Remito) integrada con AFIP, control de stock con alertas y movimientos, proveedores y compras, dashboard con reportes y ranking de productos, roles dueño/empleado y panel Super Admin para administrar varios kioscos en cadena con transferencias de stock entre sucursales. App de escritorio (Windows/macOS) y web, con Mercado Pago integrado.
+        Sistema de gestión para kioscos y comercios minoristas: punto de venta venta con escáner de código de barras, facturación (Factura B / Remito) integrada con AFIP, control de stock, alertas de vencimientos y movimientos, proveedores y compras, dashboard con reportes y ranking de productos, roles dueño/empleado y panel Super Admin para administrar varios kioscos en cadena con transferencias de stock entre sucursales. App de escritorio (Windows/macOS) y web, con Mercado Pago integrado.
       </p>
     </td>
     <td align="center" width="330" valign="top">
