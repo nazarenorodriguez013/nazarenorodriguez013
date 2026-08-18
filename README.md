@@ -94,14 +94,6 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazarenorodriguez013&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazarenorodriguez013&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nazarenorodriguez013&color=3fb950&style=flat&label=visitas+al+perfil" alt="Visitas al perfil" />
 </div>
